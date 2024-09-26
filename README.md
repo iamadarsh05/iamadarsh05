@@ -47,7 +47,7 @@ I also run a YouTube channel called **[Next Level](https://www.youtube.com/@blaz
 Feel free to check out the channel and join me on this exciting journey of tech and exploration!
 
 ## 🔬 **Research Experience:**
-I had the incredible opportunity to work as a research intern at **UiT The Arctic University of Norway** 🧊, where I:
+I had the incredible opportunity to work as a research intern at **UiT The Arctic University of Norway**, where I:
 - 📊 Characterized the structural and mechanical properties of **reindeer antlers** using advanced **MATLAB** techniques.
 - 🚀 Optimized large datasets (100k+ columns) and applied **Singular Spectrum Analysis (SSA)** for enhanced data interpretation and processing.
 

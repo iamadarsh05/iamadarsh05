@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 👨‍💻 **About Me:**
-Hi there! I’m **Adarsh**, a final-year undergraduate student at **IIT Guwahati**, driven by my love for coding, web development, and solving real-world problems with innovative tech solutions.
+Hi there! I’m **Adarsh**, a final-year undergraduate student at **Indian Institute of Technology Guwahati**, driven by my love for coding, web development, and solving real-world problems with innovative tech solutions.
 
 - 🔥 I specialize in building efficient systems and web applications, with a strong focus on both frontend and backend technologies.
 - 🎯 My short-term goal is to secure a technical role where I can leverage my skills and continue growing as a developer.

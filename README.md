@@ -1,16 +1,30 @@
-# Welcome to My Profile
+# 👋 Welcome to My GitHub Profile!
 
-**Who I Am:**
-Hello and welcome to my Github profile! My name is Adarsh, and I'm a final year undergraduate student at the Indian Institute of Technology, Guwahati. with a passion for coding and web development.
+## 👨‍💻 **About Me:**
+Hi there! I’m **Adarsh**, a final-year undergraduate student at **IIT Guwahati**, driven by my love for coding, web development, and solving real-world problems with innovative tech solutions.
 
-**My Technical Skills:**
-My technical skills include programming in C, C++, Python, and MATLAB, as well as proficiency in web technologies like HTML, CSS, ReactJS, and NodeJS. I've also gained experience working with databases such as MySQL and MongoDB.
+- 🔥 I specialize in building efficient systems and web applications, with a strong focus on both frontend and backend technologies.
+- 🎯 My short-term goal is to secure a technical role where I can leverage my skills and continue growing as a developer.
 
-**My Work Experience:**
-During my research internship at UiT The Arctic University of Norway, I worked on characterizing reindeer antlers, processing large datasets in MATLAB, and applying advanced techniques like Singular Spectrum Analysis (SSA) for better data optimization. 
+## 💡 **Technical Skills:**
+- **Languages:** C, C++, Python, MATLAB
+- **Web Technologies:** HTML, CSS, ReactJS, NodeJS
+- **Database Management:** MySQL, MongoDB
+- **Tools & Platforms:** Git, MATLAB, Arduino, Flutter
 
-**My interests/hobbies:**
-Outside of work, I love watching anime and enjoy meeting and talking to new people. 
+## 🔬 **Research Experience:**
+I had the incredible opportunity to work as a research intern at **UiT The Arctic University of Norway** 🧊, where I:
+- 📊 Characterized the structural and mechanical properties of **reindeer antlers** using advanced **MATLAB** techniques.
+- 🚀 Optimized large datasets (100k+ columns) and applied **Singular Spectrum Analysis (SSA)** for enhanced data interpretation and processing.
 
-**My goals:**
-I’m always eager to learn and improve, and my short-term goal is to secure a technical role where I can contribute and grow.
+## 🌟 **Hobbies & Interests:**
+- 🎬 **Anime Enthusiast:** I love diving into different anime series whenever I get a break from coding.
+- 🌍 **People Person:** I enjoy meeting and talking to new people, sharing experiences, and learning from others.
+
+## 🚀 **What’s Next:**
+I’m always open to collaborating on exciting projects and expanding my skill set. Let’s connect and create something awesome together!
+
+---
+
+### 📫 **Reach Out to Me:**
+- [LinkedIn](https://www.linkedin.com/in/blazeblitzed/) | [Email](mailto:adarsh123@gmail.com)

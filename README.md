@@ -29,9 +29,9 @@ Databases  → MongoDB · PostgreSQL · Redis · DynamoDB
 
 | Project | Description |
 |---|---|
-| [QuickBlog](https://github.com/iamadarsh05/quickblog) | AI-powered MERN blog platform using Gemini API |
-| [JoSAA Portal](https://github.com/iamadarsh05/josaa-portal) | JEE Advanced counselling analytics and rank predictor |
-| [Bill Splitter](https://github.com/iamadarsh05/bill-splitter) | Group expense tracker with transaction minimization algorithm |
+| [QuickBlog](https://github.com/iamadarsh05/QuickBlog) | AI-powered MERN blog platform using Gemini API |
+| [JoSAA Portal](https://github.com/iamadarsh05/JoSAA-Portal) | JEE Advanced counselling analytics and rank predictor |
+| [Bill Splitter](https://github.com/iamadarsh05/Bill-Splitter) | Group expense tracker with transaction minimization algorithm |
 
 ---
 

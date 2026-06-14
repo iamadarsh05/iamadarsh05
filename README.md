@@ -21,12 +21,6 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Hey, I'm Adarsh 👋
-
 I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025), building systems that take LLMs from prototype to production.
 
 - 🔭 &nbsp; Currently building agentic workflow infrastructure handling **10k+ requests/day**
@@ -35,15 +29,6 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 - ⚡ &nbsp; I type at **100 WPM** on [Monkeytype](https://monkeytype.com/profile/blazeblitzed)
 - 💬 &nbsp; Open to **AI Engineer · SDE · Backend · Full Stack** roles
 - 📬 &nbsp; Reach me at **ad2313123@gmail.com**
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif" style="border-radius:12px" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -85,25 +70,11 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-**LeetCode**
-
 <img src="https://leetcard.jacoblin.cool/iamadarsh05?theme=dark&font=Inter&border=0&radius=10&ext=heatmap" />
 
-</td>
-<td align="center">
-
-**Codeforces**
+<br/><br/>
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=iam_adarsh&theme=dark&force_username=true&border_color=0EA5E9&title_color=0EA5E9&text_color=E2E8F0&bg_color=0F172A" />
-
-</td>
-</tr>
-</table>
-
 
 </div>
 
@@ -139,7 +110,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 

@@ -22,20 +22,24 @@
 
 ## 🚀 About Me
 
-```bash
-$ adarsh --info
-
-  Name      →  Adarsh Sharma
-  Role      →  AI Engineer
-  College   →  IIT Guwahati · Engineering Physics · 2021–2025
-  Focus     →  Agentic Systems · RAG Pipelines · LLM Orchestration
-  Stack     →  Python · TypeScript · LangChain · FastAPI · React
-  Status    →  Building production-grade agentic workflow infrastructure
-  Typing    →  100 WPM · Monkeytype (blazeblitzed)
-  Contact   →  ad2313123@gmail.com
-
-$ adarsh --status
-  ✓  Open to AI Engineer · SDE · Backend · Full Stack roles
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ██████╗  ██████╗                                                  ║
+║   ██╔══██╗██╔════╝      adarsh@iitg                                 ║
+║   ███████║ ███████╗      ────────────────────────────────────────    ║
+║   ██╔══██║██╔═══██╗      role     ›  AI Engineer                    ║
+║   ██║  ██║╚██████╔╝      college  ›  IIT Guwahati · Eng. Physics    ║
+║   ╚═╝  ╚═╝ ╚═════╝       batch    ›  2021 – 2025                    ║
+║                           focus    ›  Agentic · RAG · LLM Orch.     ║
+║   ██████╗ ██╗             stack    ›  Python · TS · LangChain        ║
+║  ██╔══██╗██║              ships    ›  10k+ req/day in production     ║
+║  ███████║██║              speed    ›  100 WPM  (blazeblitzed)        ║
+║  ██╔══██║██║              mission  ›  Theory → working code, fast    ║
+║  ██║  ██║███████╗         status   ›  ✓  Open to Opportunities       ║
+║  ╚═╝  ╚═╝╚══════╝                                                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---

@@ -20,16 +20,22 @@
 
 ---
 
-## 🚀 What I Build
+## 🚀 About Me
 
-```python
-class AdarshSharma:
-    role       = "AI Engineer"
-    education  = "B.Tech Engineering Physics · IIT Guwahati"
-    focus      = ["Agentic Systems", "RAG Pipelines", "LLM Orchestration"]
-    stack      = ["Python", "TypeScript", "FastAPI", "LangChain", "React"]
-    currently  = "Building production-grade agentic workflow infrastructure"
-    fun_fact   = "I type at 100 WPM and go from theory to working code fast"
+```bash
+$ adarsh --info
+
+  Name      →  Adarsh Sharma
+  Role      →  AI Engineer
+  College   →  IIT Guwahati · Engineering Physics · 2021–2025
+  Focus     →  Agentic Systems · RAG Pipelines · LLM Orchestration
+  Stack     →  Python · TypeScript · LangChain · FastAPI · React
+  Status    →  Building production-grade agentic workflow infrastructure
+  Typing    →  100 WPM · Monkeytype (blazeblitzed)
+  Contact   →  ad2313123@gmail.com
+
+$ adarsh --status
+  ✓  Open to AI Engineer · SDE · Backend · Full Stack roles
 ```
 
 ---
@@ -46,7 +52,7 @@ class AdarshSharma:
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logoColor=white)
 
-**Languages & Frameworks**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" />
 
@@ -70,11 +76,23 @@ class AdarshSharma:
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Competitive Programming & Stats
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/iamadarsh05?theme=dark&font=Inter&ext=heatmap&border=0&radius=10&bg_color=0F172A&text_color=E2E8F0&title_color=7C3AED" />
+<img src="https://leetcard.jacoblin.cool/iamadarsh05?theme=dark&font=Inter&ext=heatmap&border=0&radius=10" />
+
+<br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=iam_adarsh&theme=dark&force_username=true&border_color=7C3AED&title_color=7C3AED&text_color=E2E8F0&bg_color=0F172A" />
+
+<br/>
+
+<a href="https://monkeytype.com/profile/blazeblitzed">
+  <img src="https://img.shields.io/badge/Monkeytype-blazeblitzed-7C3AED?style=for-the-badge&logo=monkeytype&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/100%20WPM-15s%20burst-0F172A?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -93,16 +111,6 @@ class AdarshSharma:
 <a href="https://github.com/iamadarsh05/Bill-Splitter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=Bill-Splitter&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=E2E8F0" />
 </a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamadarsh05&theme=tokyonight&no-frame=true&column=6&margin-w=10&title=Stars,Commits,Repositories,PullRequest,Reviews,Issues" />
 
 </div>
 

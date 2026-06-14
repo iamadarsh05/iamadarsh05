@@ -70,18 +70,11 @@ class AdarshSharma:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamadarsh05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=E2E8F0&ring_color=7C3AED" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadarsh05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&text_color=E2E8F0&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamadarsh05&theme=tokyonight&hide_border=true&background=0F172A&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" />
+<img src="https://leetcard.jacoblin.cool/iamadarsh05?theme=dark&font=Inter&ext=heatmap&border=0&radius=10&bg_color=0F172A&text_color=E2E8F0&title_color=7C3AED" />
 
 </div>
 

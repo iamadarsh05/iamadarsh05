@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Adarsh%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IIT%20Guwahati&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=header&text=Adarsh%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20IIT%20Guwahati&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Agentic+Systems+%F0%9F%A4%96;RAG+Pipelines+%C2%B7+LLM+Orchestration;Theory+%E2%86%92+Working+Code%2C+Fast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+Agentic+Systems+%F0%9F%A4%96;RAG+Pipelines+%C2%B7+LLM+Orchestration;Theory+%E2%86%92+Working+Code%2C+Fast" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iamadarsh05&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=iamadarsh05&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -54,9 +54,9 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 **AI & ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logoColor=white)
 
 <br/>
@@ -98,17 +98,12 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 **Codeforces**
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=iam_adarsh&theme=dark&force_username=true&border_color=7C3AED&title_color=7C3AED&text_color=E2E8F0&bg_color=0F172A" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=iam_adarsh&theme=dark&force_username=true&border_color=0EA5E9&title_color=0EA5E9&text_color=E2E8F0&bg_color=0F172A" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-**⌨️ Monkeytype**
-
-[![Monkeytype](https://img.shields.io/badge/blazeblitzed-100%20WPM%20%7C%2015s-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA1SDRjLTEuMSAwLTIgLjktMiAydjEwYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWN2MwLTEuMS0uOS0yLTItMnptLTkgM2gybDIgNGgtMWwtLjUtMWgtMmwtLjUgMUg5bDItNHptMC43NSAxLjVsLS43NSAxaDEuNWwtLjc1LTF6TTYgMTFoMXYtNGgxbC41IDEgLjUtMWgxdjRoLTF2LTIuNzVsLS41IDEtLjUtMVY4SDZ2M3ptMTEuNSAwaC0xLjVWOGgxLjV2M3oiLz48L3N2Zz4=&logoColor=white)](https://monkeytype.com/profile/blazeblitzed)
 
 </div>
 
@@ -119,13 +114,13 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 <div align="center">
 
 <a href="https://github.com/iamadarsh05/QuickBlog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=QuickBlog&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=E2E8F0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=QuickBlog&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
 </a>
 <a href="https://github.com/iamadarsh05/JoSAA-Portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=JoSAA-Portal&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=E2E8F0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=JoSAA-Portal&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
 </a>
 <a href="https://github.com/iamadarsh05/Bill-Splitter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=Bill-Splitter&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=7C3AED&icon_color=7C3AED&text_color=E2E8F0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=Bill-Splitter&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
 </a>
 
 </div>
@@ -148,8 +143,8 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamadarsh05&bg_color=0F172A&color=7C3AED&line=7C3AED&point=E2E8F0&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamadarsh05&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=E2E8F0&area=true&hide_border=true" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=80&section=footer" />

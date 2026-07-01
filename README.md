@@ -85,7 +85,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/iamadarsh05/kairos">Kairos</a> &nbsp;·&nbsp; <a href="https://kairos-red-mu.vercel.app">Live Demo ↗</a></h3>
+      <h3><a href="https://github.com/iamadarsh05/kairos">Kairos</a> &nbsp;·&nbsp; <a href="https://kairos-red-mu.vercel.app">Live Demo ↗</a></h3>
       <p>Voice-enabled AI scheduling agent that books Google Calendar meetings through natural conversation — sub-800 ms voice, smart time parsing, conflict resolution.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -94,7 +94,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/iamadarsh05/QuickBlog">QuickBlog</a></h3>
+      <h3><a href="https://github.com/iamadarsh05/QuickBlog">QuickBlog</a></h3>
       <p>AI-powered MERN blogging platform using the Gemini API for content generation, ImageKit storage, and JWT auth — cuts blog creation time by 60%.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -106,7 +106,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/iamadarsh05/Bill-Splitter">Bill-Splitter</a></h3>
+      <h3><a href="https://github.com/iamadarsh05/Bill-Splitter">Bill-Splitter</a></h3>
       <p>Group expense tracker with a transaction-minimization algorithm that reduces the number of settlements needed between members.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />

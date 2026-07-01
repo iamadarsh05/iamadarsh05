@@ -84,11 +84,11 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 <div align="center">
 
+<a href="https://github.com/iamadarsh05/kairos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=kairos&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
+</a>
 <a href="https://github.com/iamadarsh05/QuickBlog">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=QuickBlog&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/iamadarsh05/JoSAA-Portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=JoSAA-Portal&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
 </a>
 <a href="https://github.com/iamadarsh05/Bill-Splitter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=Bill-Splitter&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />

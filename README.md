@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+Agentic+Systems+%F0%9F%A4%96;RAG+Pipelines+%C2%B7+LLM+Orchestration;Theory+%E2%86%92+Working+Code%2C+Fast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+Agentic+Systems;RAG+Pipelines+%C2%B7+LLM+Orchestration;Theory+%E2%86%92+Working+Code%2C+Fast" alt="Typing SVG" />
 
 <br/>
 
@@ -19,20 +19,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025), building systems that take LLMs from prototype to production.
 
-- 🔭 &nbsp; Currently building agentic workflow infrastructure handling **10k+ requests/day**
-- 🧩 &nbsp; Specialize in **Agentic Systems**, **RAG Pipelines** and **LLM Orchestration**
-- 🌱 &nbsp; Exploring **MCP**, **LangGraph** and multi-agent coordination
-- ⚡ &nbsp; I type at **100 WPM** on [Monkeytype](https://monkeytype.com/profile/blazeblitzed)
-- 💬 &nbsp; Open to **AI Engineer · SDE · Backend · Full Stack** roles
-- 📬 &nbsp; Reach me at **ad2313123@gmail.com**
+- Currently building agentic workflow infrastructure handling **10k+ requests/day**
+- Specialize in **Agentic Systems**, **RAG Pipelines** and **LLM Orchestration**
+- Exploring **MCP**, **LangGraph** and multi-agent coordination
+- I type at **100 WPM** on [Monkeytype](https://monkeytype.com/profile/blazeblitzed)
+- Open to **AI Engineer · SDE · Backend · Full Stack** roles
+- Reach me at **ad2313123@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -120,7 +120,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ---
 
-## 📜 Certification
+## Certification
 
 <div align="center">
 
@@ -132,7 +132,7 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 

@@ -82,19 +82,41 @@ I'm an **AI Engineer** from **IIT Guwahati** (Engineering Physics, 2021–2025),
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/iamadarsh05/kairos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=kairos&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/iamadarsh05/QuickBlog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=QuickBlog&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/iamadarsh05/Bill-Splitter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsh05&repo=Bill-Splitter&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ <a href="https://github.com/iamadarsh05/kairos">Kairos</a> &nbsp;·&nbsp; <a href="https://kairos-red-mu.vercel.app">Live Demo ↗</a></h3>
+      <p>Voice-enabled AI scheduling agent that books Google Calendar meetings through natural conversation — sub-800 ms voice, smart time parsing, conflict resolution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/iamadarsh05/QuickBlog">QuickBlog</a></h3>
+      <p>AI-powered MERN blogging platform using the Gemini API for content generation, ImageKit storage, and JWT auth — cuts blog creation time by 60%.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 <a href="https://github.com/iamadarsh05/Bill-Splitter">Bill-Splitter</a></h3>
+      <p>Group expense tracker with a transaction-minimization algorithm that reduces the number of settlements needed between members.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-0F172A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
